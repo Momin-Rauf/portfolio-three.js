@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple iMac
+* source:	https://sketchfab.com/3d-models/apple-imac-ba474409e8044e01b3cf43de0c43c121
+* author:	lazercar (https://sketchfab.com/lazercar)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple iMac" (https://sketchfab.com/3d-models/apple-imac-ba474409e8044e01b3cf43de0c43c121) by lazercar (https://sketchfab.com/lazercar) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

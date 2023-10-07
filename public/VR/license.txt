@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bigscreen Beyond - Official 3D Printable Model
+* source:	https://sketchfab.com/3d-models/bigscreen-beyond-official-3d-printable-model-46f3d74e7ba44037bfd2f98b05d3c20d
+* author:	Bigscreen Beyond (https://sketchfab.com/bigscreenvr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bigscreen Beyond - Official 3D Printable Model" (https://sketchfab.com/3d-models/bigscreen-beyond-official-3d-printable-model-46f3d74e7ba44037bfd2f98b05d3c20d) by Bigscreen Beyond (https://sketchfab.com/bigscreenvr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mobile Phone (Free / Game Ready)
+* source:	https://sketchfab.com/3d-models/mobile-phone-free-game-ready-c89817ce138040c4936854b83507aa3d
+* author:	Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mobile Phone (Free / Game Ready)" (https://sketchfab.com/3d-models/mobile-phone-free-game-ready-c89817ce138040c4936854b83507aa3d) by Sebastian Webster (https://sketchfab.com/Sebastian.Hamish.Webster) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

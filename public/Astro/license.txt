@@ -1,0 +1,11 @@
+Model Information:
+* title:	Astronot
+* source:	https://sketchfab.com/3d-models/astronot-466c8ae385854dda99a2dc2bc2ac5c58
+* author:	2143087 (https://sketchfab.com/2143087)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Astronot" (https://sketchfab.com/3d-models/astronot-466c8ae385854dda99a2dc2bc2ac5c58) by 2143087 (https://sketchfab.com/2143087) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
